@@ -21,6 +21,6 @@ Ignore the warnings.
 # How to run the code?
 
 
-#### Execute file notePad in folder "notepad"
+ Execute file notepad in folder "notepad"
 
 $ ./notepad
