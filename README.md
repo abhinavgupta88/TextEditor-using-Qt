@@ -24,3 +24,7 @@ Ignore the warnings.
  Execute file notepad in folder "notepad"
 
 $ ./notepad
+
+# Issues/Future-Work
+Warning dialog-box will not be displayed to save the work before closing the tab.
+Search and replace functions are not provided.
