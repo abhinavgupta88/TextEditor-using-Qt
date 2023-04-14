@@ -1,5 +1,14 @@
 # TextEditor-using-Qt
-A simple text-editor developed with Qt creator for editing rich text files. Compiled and Tested on Ubuntu Ubuntu 20.04. with Qt 5
+A simple text-editor developed with Qt creator for editing rich text files. Compiled and Tested on Ubuntu Ubuntu 20.04. with Qt 5  
+
+# Features
+Bold/Unbold   
+
+Subscript  
+
+Superscript   
+
+Keyboard Shortcuts
 
 # Installation 
 
@@ -26,5 +35,6 @@ Ignore the warnings.
 $ ./notepad
 
 # Issues/Future-Work
-Warning dialog-box will not be displayed to save the work before closing the tab.
+Warning dialog-box will not be displayed to save the work before closing the tab.  
+
 Search and replace functions are not provided.
